@@ -1,8 +1,10 @@
 # Test-notebookLM-desafio
-Neste repositório você vai encontrar um material que foi utilizado para realizar uma entrega de um dos desafios do bootcamp CI&amp;T - Do Prompt ao Agente da DIO
+Este repositório reúne os materiais utilizados para a entrega de um dos desafios do bootcamp CI&T - Do Prompt ao Agente, promovido pela DIO.
 
-Neste desafio, utilizei o NotebookLM como ferramenta de apoio para estruturar conteúdos e me preparar para uma apresentação importante no ambiente de trabalho. A partir da inserção de fontes relacionadas à minha proposta, consegui organizar melhor as ideias, aprofundar os argumentos e construir uma apresentação voltada à criação de um novo fluxo para as entregas de automações.
+Neste desafio, utilizei o NotebookLM como ferramenta de apoio aos estudos e à organização de ideias, trabalhando com fontes selecionadas por mim de acordo com o tema da proposta. A partir dessas fontes, foi possível estruturar melhor os conteúdos, aprofundar os argumentos e me preparar para uma apresentação importante no ambiente de trabalho.
 
-O objetivo principal foi apresentar uma solução capaz de trazer mais organização, controle e previsibilidade ao processo de desenvolvimento e entrega das automações, garantindo maior segurança no acompanhamento dos resultados e no cumprimento dos critérios necessários para as bonificações propostas.
+O tema desenvolvido teve como foco a criação de um novo fluxo para as entregas de automações, com o objetivo de trazer mais organização, controle e previsibilidade ao processo de desenvolvimento, acompanhamento e entrega das soluções automatizadas.
 
-Segue o link: https://notebooklm.google.com/notebook/e53500c1-1aef-47c5-95fc-e9e7e1f377a8
+A proposta também buscou demonstrar como um fluxo mais estruturado pode contribuir para maior segurança na gestão dos resultados, melhor acompanhamento dos critérios de qualidade e produtividade, além de apoiar o cumprimento dos requisitos necessários para as bonificações relacionadas às automações entregues.
+
+Como resultado, o uso do NotebookLM contribuiu para a criação de uma apresentação e de um vídeo sobre o tema, auxiliando diretamente na preparação para a reunião em que a proposta seria apresentada.
